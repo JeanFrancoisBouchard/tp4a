@@ -19,12 +19,12 @@ namespace api_b.Services
 
         public List<User> Get()
         {
-            return _users.Find(user => true).ToList();
+            return _users.Find(users => true).ToList();
         }
 
         public User Get(string id)
         {
-            return _users.Find(user => user.Id == id).FirstOrDefault();
+            return _users.Find(users => users.Id == id).FirstOrDefault();
         }
 
         public User Create(User user)
