@@ -9,7 +9,7 @@ namespace api_b.Models
         [BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }
 
-        [BsonElement("nom")]
+        [BsonElement("username")]
         public string username { get; set; }
 
         [BsonElement("isbnLivrePrefere")]
