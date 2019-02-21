@@ -1,0 +1,14 @@
+C:\Users\usager\source\repos\api_b\api_b\bin\Debug\netcoreapp2.1\api_b.deps.json
+C:\Users\usager\source\repos\api_b\api_b\bin\Debug\netcoreapp2.1\api_b.runtimeconfig.json
+C:\Users\usager\source\repos\api_b\api_b\bin\Debug\netcoreapp2.1\api_b.runtimeconfig.dev.json
+C:\Users\usager\source\repos\api_b\api_b\bin\Debug\netcoreapp2.1\api_b.dll
+C:\Users\usager\source\repos\api_b\api_b\obj\Debug\netcoreapp2.1\api_b.csprojAssemblyReference.cache
+C:\Users\usager\source\repos\api_b\api_b\obj\Debug\netcoreapp2.1\api_b.csproj.CoreCompileInputs.cache
+C:\Users\usager\source\repos\api_b\api_b\obj\Debug\netcoreapp2.1\api_b.RazorAssemblyInfo.cache
+C:\Users\usager\source\repos\api_b\api_b\obj\Debug\netcoreapp2.1\api_b.RazorAssemblyInfo.cs
+C:\Users\usager\source\repos\api_b\api_b\obj\Debug\netcoreapp2.1\api_b.AssemblyInfoInputs.cache
+C:\Users\usager\source\repos\api_b\api_b\obj\Debug\netcoreapp2.1\api_b.AssemblyInfo.cs
+C:\Users\usager\source\repos\api_b\api_b\obj\Debug\netcoreapp2.1\api_b.RazorTargetAssemblyInfo.cache
+C:\Users\usager\source\repos\api_b\api_b\bin\Debug\netcoreapp2.1\api_b.pdb
+C:\Users\usager\source\repos\api_b\api_b\obj\Debug\netcoreapp2.1\api_b.dll
+C:\Users\usager\source\repos\api_b\api_b\obj\Debug\netcoreapp2.1\api_b.pdb
