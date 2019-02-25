@@ -13709,11 +13709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usager\\Desktop\\api_b\\api_b\\api_b.csproj",
+      "projectUniqueName": "C:\\Users\\usager\\source\\tp4b\\api_b\\api_b.csproj",
       "projectName": "api_b",
-      "projectPath": "C:\\Users\\usager\\Desktop\\api_b\\api_b\\api_b.csproj",
+      "projectPath": "C:\\Users\\usager\\source\\tp4b\\api_b\\api_b.csproj",
       "packagesPath": "C:\\Users\\usager\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usager\\Desktop\\api_b\\api_b\\obj\\",
+      "outputPath": "C:\\Users\\usager\\source\\tp4b\\api_b\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

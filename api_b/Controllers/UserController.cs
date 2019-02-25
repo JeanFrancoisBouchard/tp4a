@@ -41,5 +41,12 @@ namespace api_b.Controllers
 
             return CreatedAtRoute("GetUser", new { id = user.Id.ToString() }, user);
         }
+
+        [HttpPost]
+        public ActionResult<User> CreateObject([FromBody]User user)
+        {
+            _userService.Create(user);
+            return CreatedAtRoute("Getuser", new { id = user.Id.ToString() }, user);
+        }
     }
 }

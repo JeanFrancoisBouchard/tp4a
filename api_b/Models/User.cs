@@ -15,8 +15,26 @@ namespace api_b.Models
         [BsonElement("isbnLivrePrefere")]
         public string isbn { get; set; }
 
+        [BsonElement("titreLivrePrefere")]
+        public string titreLivrePrefere { get; set; }
+
+        [BsonElement("auteurLivrePrefere")]
+        public string auteurLivrePrefere { get; set; }
+
+        [BsonElement("urlCouvertureLivrePrefere")]
+        public string urlCouvertureLivrePrefere { get; set; }
+
         [BsonElement("nomEmissionPreferee")]
         public string show { get; set; }
+
+        [BsonElement("genreSeriePreferee")]
+        public string genreSeriePreferee { get; set; }
+
+        [BsonElement("jourSeriePreferee")]
+        public string jourSeriePreferee { get; set; }
+
+        [BsonElement("heureSeriePreferee")]
+        public string heureSeriePreferee { get; set; }
 
     }
 }
