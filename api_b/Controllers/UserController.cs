@@ -36,7 +36,7 @@ namespace api_b.Controllers
         [HttpPost("{nom}/{isbnLivrePrefere}/{nomEmissionPreferee}")]
         public ActionResult<User> Create(string nom, string isbnLivrePrefere, string nomEmissionPreferee)
         {
-            User user = new User { username = nom, isbn = isbnLivrePrefere, show = nomEmissionPreferee };
+            User user = new User { username = nom, isbnLivrePrefere = isbnLivrePrefere, nomEmissionPreferee = nomEmissionPreferee };
             _userService.Create(user);
 
             return CreatedAtRoute("GetUser", new { id = user.Id.ToString() }, user);

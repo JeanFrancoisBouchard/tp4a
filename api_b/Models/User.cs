@@ -13,7 +13,7 @@ namespace api_b.Models
         public string username { get; set; }
 
         [BsonElement("isbnLivrePrefere")]
-        public string isbn { get; set; }
+        public string isbnLivrePrefere { get; set; }
 
         [BsonElement("titreLivrePrefere")]
         public string titreLivrePrefere { get; set; }
@@ -28,16 +28,16 @@ namespace api_b.Models
         public string datePublicationLivrePrefere { get; set; }
 
         [BsonElement("nomEmissionPreferee")]
-        public string show { get; set; }
+        public string nomEmissionPreferee { get; set; }
 
         [BsonElement("genreEmissionPreferee")]
-        public string genreSeriePreferee { get; set; }
+        public string genreEmissionPreferee { get; set; }
 
         [BsonElement("jourEmissionPreferee")]
-        public string jourSeriePreferee { get; set; }
+        public string jourEmissionPreferee { get; set; }
 
         [BsonElement("heureEmissionPreferee")]
-        public string heureSeriePreferee { get; set; }
+        public string heureEmissionPreferee { get; set; }
 
     }
 }
