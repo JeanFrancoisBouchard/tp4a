@@ -24,16 +24,19 @@ namespace api_b.Models
         [BsonElement("urlCouvertureLivrePrefere")]
         public string urlCouvertureLivrePrefere { get; set; }
 
+        [BsonElement("datePublicationLivrePrefere")]
+        public string datePublicationLivrePrefere { get; set; }
+
         [BsonElement("nomEmissionPreferee")]
         public string show { get; set; }
 
-        [BsonElement("genreSeriePreferee")]
+        [BsonElement("genreEmissionPreferee")]
         public string genreSeriePreferee { get; set; }
 
-        [BsonElement("jourSeriePreferee")]
+        [BsonElement("jourEmissionPreferee")]
         public string jourSeriePreferee { get; set; }
 
-        [BsonElement("heureSeriePreferee")]
+        [BsonElement("heureEmissionPreferee")]
         public string heureSeriePreferee { get; set; }
 
     }
